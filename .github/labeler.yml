@@ -1,0 +1,15 @@
+bug:
+  - '*bug*'
+  - '*error*'
+  - '*crash*'
+  - '*fail*'
+
+enhancement:
+  - '*feature*'
+  - '*enhancement*'
+  - '*improve*'
+
+question:
+  - '*question*'
+  - '*how*'
+  - '*help*'

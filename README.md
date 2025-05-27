@@ -27,7 +27,7 @@ A comprehensive bioinformatics tool for gene-level mutation comparison between r
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/genediff.git
+git clone https://github.com/xrazmo/genediff.git
 cd genediff
 ```
 
@@ -215,12 +215,12 @@ If you use this tool in your research, please cite:
 
 ```
 GeneDiff
-https://github.com/yourusername/genediff
+https://github.com/xrazmo/genediff
 ```
 
 ## Contact
 
-- **Issues**: https://github.com/yourusername/genediff/issues
+- **Issues**: https://github.com/xrazmo/genediff/issues
 
 ## Changelog
 
